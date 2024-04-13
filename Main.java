@@ -9,7 +9,7 @@ import java.util.*;
 class Main {
 
     public static void main(String[] args) {
-        System.out.println("Build Array from Permutation");
+        System.out.println("Final Value of Variable After Performing Operations");
 
         Solution solution = new Solution();
 
