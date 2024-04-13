@@ -12,3 +12,5 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
 https://leetcode.com/problems/final-value-of-variable-after-performing-operations/solutions/5001698/bruhh/
 
 git remote add origin https://github.com/anumit-web/LeetCode-Arrays-4-Final-Value-of-Variable-After-Performing-Operations.git
+
+git remote set-url origin https://github.com/anumit-web/LeetCode-Arrays-4-Final-Value-of-Variable-After-Performing-Operations.git
